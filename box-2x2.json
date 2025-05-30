@@ -1,0 +1,11 @@
+{
+    "TypeId": "box-2x2",
+    "Name": "Box - 2x2",
+    "Description": "A 2 gang outlet box",
+    "DefaultPorts": {
+        "0":{"Type": "*", "Name": "Top Left"},
+        "1":{"Type": "*", "Name": "Bottom Left"},
+        "2":{"Type": "*", "Name": "Top Right"},
+        "3":{"Type": "*", "Name": "Bottom Right"}
+    }
+}
