@@ -1,0 +1,8 @@
+{
+    "TypeId": "paradigm-inspire4",
+    "Name": "ETC Paradigm Inspire 4",
+    "Description": "A 4 button entry station for ETC's Paradigm system",
+    "DefaultPorts": {
+        "0":{"Type": "paradigm-link-connect", "Name": null}
+    }
+}

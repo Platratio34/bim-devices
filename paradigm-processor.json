@@ -1,0 +1,14 @@
+{
+    "TypeId": "paradigm-processor",
+    "Name": "ETC Paradigm ERn4-RM Processor",
+    "Description": "Processor unit for ETC's Paradigm system",
+    "DefaultPorts": {
+        "net":{"Type": "network", "Name": null},
+        "1a":{"Type": "paradigm-link-connect", "Name": null},
+        "1b":{"Type": "paradigm-link-connect", "Name": null},
+        "1c":{"Type": "paradigm-link-connect", "Name": null},
+        "2a":{"Type": "paradigm-link-connect", "Name": null},
+        "2b":{"Type": "paradigm-link-connect", "Name": null},
+        "2c":{"Type": "paradigm-link-connect", "Name": null}
+    }
+}

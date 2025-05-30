@@ -1,0 +1,8 @@
+{
+    "TypeId": "paradigm-occupancy-wall",
+    "Name": "ETC Paradigm Wall Occupancy Sensor",
+    "Description": "A wall mounted occupancy sensor for ETC's Paradigm system",
+    "DefaultPorts": {
+        "0":{"Type": "paradigm-link-connect", "Name": null}
+    }
+}

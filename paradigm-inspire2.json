@@ -1,0 +1,8 @@
+{
+    "TypeId": "paradigm-inspire2",
+    "Name": "ETC Paradigm Inspire 2",
+    "Description": "A 2 button entry station for ETC's Paradigm system",
+    "DefaultPorts": {
+        "0":{"Type": "paradigm-link-connect", "Name": null}
+    }
+}
