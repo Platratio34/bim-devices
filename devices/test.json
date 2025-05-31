@@ -1,0 +1,9 @@
+{
+    "TypeId": "test",
+    "Name": "Test",
+    "Description": "*TEST ONLY*",
+    "DefaultPorts": {
+        "0":{"Type": "*", "Name": "0"},
+        "1":{"Type": "*", "Name": "1"}
+    }
+}
