@@ -1,6 +1,6 @@
 {
     "TypeId": "network",
     "Name": "IP Network",
-    "Topology": "HOME_RUN",
+    "Topology": 1,
     "Description": "IP Network"
 }

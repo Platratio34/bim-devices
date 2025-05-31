@@ -1,6 +1,6 @@
 {
     "TypeId": "test",
     "Name": "Test",
-    "Topology": "HOME_RUN",
+    "Topology": 0,
     "Description": "*TEST ONLY*"
 }
