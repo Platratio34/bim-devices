@@ -1,0 +1,6 @@
+{
+    "TypeId": "link-connect",
+    "Name": "LinkConnect",
+    "Topology": "STAR",
+    "Description": "ETC Paradigm LinkConnect"
+}
