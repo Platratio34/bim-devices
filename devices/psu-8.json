@@ -1,0 +1,17 @@
+{
+    "TypeId": "psu-8",
+    "Name": "8 Circuit Rack Power Supply Unit",
+    "Description": null,
+    "DefaultPorts": {
+        "upstream":{"Type": "power", "Name": "Upstream power connection"},
+        "net":{"Type": "network", "Name": "RMS connection"},
+        "1":{"Type": "power", "Name": null},
+        "2":{"Type": "power", "Name": null},
+        "3":{"Type": "power", "Name": null},
+        "4":{"Type": "power", "Name": null},
+        "5":{"Type": "power", "Name": null},
+        "6":{"Type": "power", "Name": null},
+        "7":{"Type": "power", "Name": null},
+        "8":{"Type": "power", "Name": null}
+    }
+}
