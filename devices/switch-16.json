@@ -1,0 +1,25 @@
+{
+    "TypeId": "switch-16",
+    "Name": "16 Port Network Switch",
+    "Description": null,
+    "DefaultPorts": {
+        "power":{"Type": "power", "Name": null},
+        "uplink":{"Type": "network", "Name": "Upstream network connection"},
+        "1":{"Type": "network", "Name": null},
+        "2":{"Type": "network", "Name": null},
+        "3":{"Type": "network", "Name": null},
+        "4":{"Type": "network", "Name": null},
+        "5":{"Type": "network", "Name": null},
+        "6":{"Type": "network", "Name": null},
+        "7":{"Type": "network", "Name": null},
+        "8":{"Type": "network", "Name": null},
+        "9":{"Type": "network", "Name": null},
+        "10":{"Type": "network", "Name": null},
+        "11":{"Type": "network", "Name": null},
+        "12":{"Type": "network", "Name": null},
+        "13":{"Type": "network", "Name": null},
+        "14":{"Type": "network", "Name": null},
+        "15":{"Type": "network", "Name": null},
+        "16":{"Type": "network", "Name": null}
+    }
+}
