@@ -5,11 +5,11 @@
     "DefaultPorts": {
         "net":{"Type": "network", "Name": null},
         "power":{"Type": "power", "Name": null},
-        "1a":{"Type": "paradigm-link-connect", "Name": null},
-        "1b":{"Type": "paradigm-link-connect", "Name": null},
-        "1c":{"Type": "paradigm-link-connect", "Name": null},
-        "2a":{"Type": "paradigm-link-connect", "Name": null},
-        "2b":{"Type": "paradigm-link-connect", "Name": null},
-        "2c":{"Type": "paradigm-link-connect", "Name": null}
+        "1a":{"Type": "link-connect", "Name": null},
+        "1b":{"Type": "link-connect", "Name": null},
+        "1c":{"Type": "link-connect", "Name": null},
+        "2a":{"Type": "link-connect", "Name": null},
+        "2b":{"Type": "link-connect", "Name": null},
+        "2c":{"Type": "link-connect", "Name": null}
     }
 }

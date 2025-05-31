@@ -3,6 +3,6 @@
     "Name": "ETC Paradigm Occupancy Sensor",
     "Description": "A celling mounted occupancy sensor for ETC's Paradigm system",
     "DefaultPorts": {
-        "0":{"Type": "paradigm-link-connect", "Name": null}
+        "0":{"Type": "link-connect", "Name": null}
     }
 }
