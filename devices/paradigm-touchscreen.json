@@ -3,6 +3,6 @@
     "Name": "ETC Paradigm Touchscreen",
     "Description": "A touchscreen control station for ETC's Paradigm system",
     "DefaultPorts": {
-        "0":{"Type": "link-connect", "Name": null}
+        "0":{"Type": "network", "Name": null}
     }
 }
